@@ -1,0 +1,24 @@
+#listaa {
+        width: auto;
+        float: left;
+        margin: 5px;
+}
+
+#listee{
+        width: auto;
+        float: left;
+        margin: 5px;
+}
+
+#listoo{
+    width: auto;
+    float: left;
+    margin: 5px;
+
+}
+
+#pi{
+        width: 100%;
+        clear: both;
+        align-content: center;
+}
